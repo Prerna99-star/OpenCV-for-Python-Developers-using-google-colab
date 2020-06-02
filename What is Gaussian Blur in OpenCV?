@@ -1,0 +1,4 @@
+* Gaussian Blur- smooths the image by averaging pixel values with its neighbours
+* WHY IT IS CALLED GAUSSIAN BLUR?? --- >> because average has Gaussian Falloff effects.
+* pixels that are closer to the target pixel have a higher impact with the average than pixels that are far away and this is how smoothing workss!!
+* WHY SMOOTHING???? ---->>> to smooth out the noise in an image as a precursor to other processing.
